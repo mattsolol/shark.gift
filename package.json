@@ -1,0 +1,22 @@
+{
+  "name": "shark.gift",
+  "version": "0.1.0",
+  "description": "A Discord bot for managing and distrubuting CD Keys.",
+  "main": "bot.js",
+  "dependencies": {
+    "appid": "^1.0.3",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "jimp": "^0.16.1",
+    "mysql": "^2.18.1",
+    "request-promise-cache": "^2.0.1",
+    "steamdb-js": "^0.2.2",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "s!help"
+  },
+  "author": "Mattso",
+  "license": "ISC"
+}
